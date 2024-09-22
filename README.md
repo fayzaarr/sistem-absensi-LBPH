@@ -10,11 +10,9 @@ Perancangan sistem ini dibuat oleh:
 3. Rifasya Ayu Nurfayza
 
 # Credits
-1. https://github.com/Sagar15Coder/FaceDetectionNRecognition/tree/ma
-ster , modifikasi yang dilakukan adalah pada face detection atau
+1. https://github.com/Sagar15Coder/FaceDetectionNRecognition/tree/master , modifikasi yang dilakukan adalah pada face detection atau
 pendeteksian wajah menggunakan haar cascade.
-2. https://github.com/iamrukeshduwal/AttendanceSystemUsingFacialRe
-cognition/tree/main , modifikasi yang dilakukan adalah pada face
+2. https://github.com/iamrukeshduwal/AttendanceSystemUsingFacialRecognition/tree/main , modifikasi yang dilakukan adalah pada face
 detection, face recognition, dan database.
 3. https://youtu.be/PmZ29Vta7Vc , modifikasi yang dilakukan adalah
 pada face detection, face recognition, dan database.
