@@ -15,6 +15,7 @@ This system is made by:
 3. Rifasya Ayu Nurfayza
 
 # Credits
+Pembuatan sistem ini berdasar pada ketiga sumber, yaitu:
 1. https://github.com/Sagar15Coder/FaceDetectionNRecognition/tree/master , modifikasi yang dilakukan adalah pada face detection atau
 pendeteksian wajah menggunakan haar cascade.
 2. https://github.com/iamrukeshduwal/AttendanceSystemUsingFacialRecognition/tree/main , modifikasi yang dilakukan adalah pada face
@@ -22,7 +23,7 @@ detection, face recognition, dan database.
 3. https://youtu.be/PmZ29Vta7Vc , modifikasi yang dilakukan adalah
 pada face detection, face recognition, dan database.
 
-
+The creation of this system is based on three sources, namely:
 1. https://github.com/Sagar15Coder/FaceDetectionNRecognition/tree/master , the modifications made are on face detection or
 face detection using haar cascade.
 2. https://github.com/iamrukeshduwal/AttendanceSystemUsingFacialRecognition/tree/main , the modifications made are on face
